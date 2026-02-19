@@ -1,6 +1,7 @@
 # Hi 👋, I'm Rawan Khamis
 
-### An experienced Html developer
+### Working as a Full Stack Web Developer | React.js | IT & Networking
+
 
 - 🔭 I'm currently working on **Web Development projects**
 
